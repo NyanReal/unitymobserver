@@ -1,3 +1,6 @@
 [submodule "BassNet"]
 	path = BassNet
 	url = https://github.com/garshion/BassNet.git
+[submodule "ProtocolGenerator/unitymobprotocol"]
+	path = ProtocolGenerator/unitymobprotocol
+	url = https://github.com/NyanReal/unitymobprotocol.git
