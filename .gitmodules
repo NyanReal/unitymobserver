@@ -1,0 +1,3 @@
+[submodule "BassNet"]
+	path = BassNet
+	url = https://github.com/garshion/BassNet.git
